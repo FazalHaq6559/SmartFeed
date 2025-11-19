@@ -1,0 +1,46 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "start:frontend": "node server.js",
+    "start:backend": "cd ../model_service && C:\\Users\\USER\\Desktop\\FYP\\SmartFeed\\model_service\\venv\\Scripts\\uvicorn.exe app.main:app --host 0.0.0.0 --port 8000 --reload"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.21.0",
+    "axios": "^1.6.8",
+    "babel-core": "^4.7.16",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "chai": "^4.3.6",
+    "chai-http": "^4.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express-validator": "^7.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "node-cron": "^3.0.3",
+    "picklejs": "^0.97.0",
+    "python-shell": "^5.0.0",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/bcryptjs": "^2.4.6",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/jsonwebtoken": "^9.0.7",
+    "@types/supertest": "^6.0.2",
+    "concurrently": "^9.0.1",
+    "express": "^4.21.1",
+    "jest": "^29.7.0",
+    "mocha": "^10.7.3",
+    "mongoose": "^8.7.1",
+    "supertest": "^7.0.0"
+  }
+}
