@@ -6,7 +6,7 @@ It combines **Neural Collaborative Filtering (NCF)** with **Content-Based Filter
 ---
 
 ##  Table of Contents
-1. [Overview](#-overview)
+1. [Overview](#-Overview)
 2. [Objectives](#-objectives)
 3. [Features](#-features)
 4. [System Architecture](#-system-architecture)
@@ -21,7 +21,7 @@ It combines **Neural Collaborative Filtering (NCF)** with **Content-Based Filter
 
 ---
 
-##  Overview
+## Overview
 **SmartFeed** was developed as part of a final-year research project to tackle **information overload** in online news platforms.  
 The system intelligently recommends news by combining user interaction data with article content similarity, ensuring that every user sees what matters most to them.
 
