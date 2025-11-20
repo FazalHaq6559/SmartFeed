@@ -112,7 +112,7 @@ Database (MongoDB)
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/YourUsername/SmartFeed.git
+git clone https://github.com/FazalHaq6559/SmartFeed.git
 cd SmartFeed
 ```
 
