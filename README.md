@@ -95,11 +95,8 @@ Database (MongoDB)
 ---
 
 ##  Demo Video
-Watch SmartFeed in action — showing login, preference setup, and personalized news recommendations.
+[▶ Watch Demo Video on YouTube](https://youtu.be/2tIs-oUwR0M)
 
- [**Click here to view the demo video**](assets/demo/demo.mp4)
-
-> *(If the video doesn’t play inline, click “Download” to view it locally.)*
 
 ---
 
