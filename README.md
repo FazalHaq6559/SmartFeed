@@ -6,18 +6,19 @@ It combines **Neural Collaborative Filtering (NCF)** with **Content-Based Filter
 ---
 
 ##  Table of Contents
-1. [Overview](#-Overview)
-2. [Objectives](#-objectives)
-3. [Features](#-features)
-4. [System Architecture](#-system-architecture)
-5. [Tech Stack](#-tech-stack)
-6. [Model Details](#-model-details)
-7. [Demo Video](#-demo-video)
-8. [Results & Impact](#-results--impact)
-9. [How to Run Locally](#-how-to-run-locally)
-10. [Future Improvements](#-future-improvements)
-11. [Author](#-author)
-12. [License](#-license)
+1. [Overview](#overview)
+2. [Objectives](#objectives)
+3. [Features](#features)
+4. [System Architecture](#system-architecture)
+5. [Tech Stack](#tech-stack)
+6. [Model Details](#model-details)
+7. [Demo Video](#demo-video)
+8. [Results & Impact](#results--impact)
+9. [How to Run Locally](#how-to-run-locally)
+10. [Future Improvements](#future-improvements)
+11. [Author](#author)
+12. [License](#license)
+
 
 ---
 
